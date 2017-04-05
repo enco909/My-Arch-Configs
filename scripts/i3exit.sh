@@ -2,7 +2,7 @@
 
 lock() {
     #  killall compton
-    $HOME/.config/i3lock/i3lock.sh
+    $HOME/.scripts/i3lock.sh
     #  compton -b
 }
 
