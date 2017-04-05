@@ -1,0 +1,40 @@
+# URXVT
+URxvt*perl-ext-common: 		default,matcher,clipboard
+
+urxvt*depth: 32
+urxvt*background: rgba:0047/0052/0063/a800
+
+urxvt*foreground: #C5C8C6
+
+urxvt*color0:    #282A2E
+urxvt*color1:    #A54242
+urxvt*color2:    #8C9440
+urxvt*color3:    #DE935F
+urxvt*color4:    #5F819D
+urxvt*color5:    #85678F
+urxvt*color6:    #5E8D87
+urxvt*color7:    #707880
+urxvt*color8:    #373B41
+urxvt*color9:    #CC6666
+urxvt*color10:   #B5BD68
+urxvt*color11:   #F0C674
+urxvt*color12:   #81A2BE
+urxvt*color13:   #B294BB
+urxvt*color14:   #8ABEB7
+urxvt*color15:   #C5C8C6
+
+urxvt*scrollBar: false
+
+# ROFI
+
+rofi.color-window: argb:aa3a3c3d, #3a3c3d, #c95e08
+rofi.color-normal: argb:aa3a3c3d, #d5d6d7, argb:aa3a3c3, #c95e08, #3a3c3d
+rofi.width: 100
+rofi.lines: 5
+rofi.columns: 2
+rofi.font: Noto Sans 14
+rofi.bw: 0
+rofi.padding: 400
+rofi.eh: 1
+!rofi.separator-style: solid
+rofi.hide-scrollbar: true
